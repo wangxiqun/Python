@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #！复制wingide6的requestCode替换掉
-LicenseID='TNX1V-Q5CLF-1BR85-8G66R'
-RequestCode='RW61G-468RA-VHMPA-RNQET'
+LicenseID='TNX3N-PGMXV-VFGX5-TC2GK'
+RequestCode='RW626-54EEX-CLYQA-RQ6MA'
 import hashlib
 B16 = '0123456789ABCDEF'
 B30 = '123456789ABCDEFGHJKLMNPQRTVWXY'
